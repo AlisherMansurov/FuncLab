@@ -22,11 +22,11 @@ print(a)
 '''
 from random import randrange 
 from random import randint
-'''
-for i in range(0, 20):
-a = random.randint(1, 20)
-print(a)
 
+for i in range(0, 20):
+    a = random.randint(1, 20)
+    print(a)
+'''
 a = randrange(30, 40, 4)
 print("I'm ", a, " year old!")
 
