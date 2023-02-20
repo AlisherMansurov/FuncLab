@@ -80,7 +80,6 @@ Str8(s2)
 Str9(s1)
 Str10(s1)
 '''
-
 '''
 def Classes():
     a = []
@@ -104,7 +103,6 @@ def Classes():
 
 Classes()
 '''
-
 '''
 str = input('input: ')
 up=0
